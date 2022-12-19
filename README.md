@@ -1,4 +1,4 @@
-# Archimodel.Net
+# ArchiModel.net
 
 ArchiModel.net is a new free visual-modeling tool for creating ArchiMate® models.
 
