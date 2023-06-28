@@ -8,6 +8,6 @@ You have the right to request ArchiModel.net to transfer the data we have collec
 
 If you have any questions about ArchiModel.net’s privacy policy, the data we hold on you, or If you would like to exercise any of your data protection rights, please contact us at [contact@archimodel.net](mailto:contact@archimodel.net).
 
-If you wish to report a complaint or if you feel that ArchiModel.net has not addressed your concern in a satisfactory manner, you may contact the CNIL data protection authority : [CNIL](http://www.cnil.fr/en).
+If you wish to report a complaint or if you feel that ArchiModel.net has not addressed your concern in a satisfactory manner, you may contact the [CNIL](http://www.cnil.fr/en) data protection authority.
 
 This privacy policy was last updated on 28 June 2023.
