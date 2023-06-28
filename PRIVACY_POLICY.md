@@ -6,7 +6,7 @@ Your data is securely stored on MangoDB Atlas. ArchiModel.net will retain your d
 You have the right to request ArchiModel.net for copies of your personal data, to correct any information you believe is inaccurate, to complete information you believe is incomplete, to delete your personal data, under certain conditions.
 You have the right to request ArchiModel.net to transfer the data we have collected to another organization, or directly to you, under certain conditions.
 
-If you have any questions about ArchiModel.net’s privacy policy, the data we hold on you, or If you would like to exercise any of your data protection rights, please contact us at [contact@archimodel.net](contact@archimodel.net).
+If you have any questions about ArchiModel.net’s privacy policy, the data we hold on you, or If you would like to exercise any of your data protection rights, please contact us at [contact@archimodel.net](mailto:contact@archimodel.net).
 
 If you wish to report a complaint or if you feel that ArchiModel.net has not addressed your concern in a satisfactory manner, you may contact the CNIL data protection authority : [CNIL](http://www.cnil.fr/en).
 
